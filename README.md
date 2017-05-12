@@ -1,4 +1,7 @@
-# g810-led-wireshark</br>
+# g810-led-resources</br>
 
-Wireshark Dump for Linux led controller.</br>
-This include many Logitech gaming keyboards.</br>
+## Profiles :</br>
+You can share your profile in profiles directory.
+
+## Dumps :</br>
+For new keyboards, add your dump in wireshark_dumps directory.
