@@ -4,4 +4,4 @@
 You can share your profile in profiles directory.
 
 ## Dumps :</br>
-For new keyboards, add your dump in wireshark_dumps directory.
+For new keyboards, add your dump in dumps directory.
