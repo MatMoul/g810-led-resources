@@ -1,0 +1,10 @@
+# WASD red Profile
+
+a 00ff00 # Set all keys green
+
+k w ff0000 # Set w key red
+k a ff0000 # Set a key red
+k s ff0000 # Set s key red
+k d ff0000 # Set d key red
+
+c # Commit changes
